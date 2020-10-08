@@ -18,7 +18,7 @@ My name is Mustafa Tariq and I'm an aspiring software developer. I'm from Pakist
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-tariqk)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-tariqk)&show_icons=true&theme=gruvbox]
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-tariqk&show_icons=true&theme=gruvbox)
 
 
