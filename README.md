@@ -9,8 +9,9 @@ My name is Mustafa Tariq and I'm an aspiring software developer. I'm from Pakist
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=0366d6)
 
 ## &#x1f4c8; GitHub Stats
-[![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-tariqk&count_private=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-tariqk&count_private=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-tariqk&count_private=true)
+![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-tariqk&count_private=true)
+
 
 
 
