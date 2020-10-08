@@ -1,8 +1,12 @@
 ### Hi there 👋
 My name is Mustafa Tariq and I'm an aspiring software developer. I'm from Pakistan, living in Canada and currently studying at Queen's University.
 
+## 🔧 Technologies & Tools
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-tariqk)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-tariqk)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **mustafa-tariqk/mustafa-tariqk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
