@@ -1,4 +1,4 @@
-### Hi there 👋
+## 👋 Hi there 
 My name is Mustafa Tariq and I'm an aspiring software developer. I'm from Pakistan, living in Canada and currently studying at Queen's University.
 
 ## 🔧 Technologies & Tools
