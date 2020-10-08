@@ -1,6 +1,5 @@
 ## 👋 Hello There!
 My name is Mustafa Tariq and I'm an aspiring software developer. I'm from Pakistan, living in Canada and currently studying at Queen's University.
-You can find me on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0366d6)
@@ -13,9 +12,6 @@ You can find me on [![LinkedIn][3.2]][3].
 ![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-tariqk&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-tariqk&count_private=true)
 
-
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
-[3]: https://www.linkedin.com/in/mustafa-tariq-42335a1b6/
 
 
 
