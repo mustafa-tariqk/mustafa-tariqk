@@ -7,7 +7,7 @@ My name is Mustafa Tariq and I'm an aspiring software developer. I'm from Pakist
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=0366d6)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=cplusplus&logoColor=white&color=0366d6)
 
 ## &#x1f4c8; GitHub Stats
 
