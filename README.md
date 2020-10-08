@@ -17,9 +17,9 @@ My name is Mustafa Tariq and I'm an aspiring software developer. I'm from Pakist
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-tariqk)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-tariqk)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-tariqk&show_icons=true&theme=gruvbox)
 
 
 
