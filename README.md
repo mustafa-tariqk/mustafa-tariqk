@@ -13,7 +13,7 @@ My name is Mustafa Tariq and I'm an aspiring software developer. I'm from Pakist
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-tariqk&count_private=true)
 
 ## 📫 Want to reach me?
-
+![](https://img.shields.io/badge/LinkedIn?style=social&logo=java&logoColor=white&color=0366d6?)
 
 
 <!--
