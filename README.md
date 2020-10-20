@@ -1,5 +1,5 @@
 ## 👋 Hello There!
-My name is Mustafa Tariq and I'm an aspiring software developer. I'm from Pakistan, living in Canada and currently studying at Queen's University.
+My name is Mustafa Tariq and I'm an aspiring software developer. I'm currently living in Canada and currently studying at Queen's University.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0366d6)
