@@ -10,7 +10,6 @@ My name is Mustafa Tariq and I'm an aspiring software developer. I'm currently l
 
 ## &#x1f4c8; GitHub Stats
 ![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-tariqk&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-tariqk&count_private=true)
 
 
 
