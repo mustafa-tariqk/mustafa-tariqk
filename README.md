@@ -8,9 +8,6 @@ My name is Mustafa Tariq and I'm an aspiring software developer. I'm currently l
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0366d6)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=0366d6)
 
-## &#x1f4c8; GitHub Stats
-![Mustafa's github stats](https://github-readme-stats.vercel.app/api?username=mustafa-tariqk&count_private=true)
-
 
 
 <!--
