@@ -1,13 +1,3 @@
-## 👋 Hello There!
-My name is Mustafa Tariq and I'm an aspiring software developer. I'm currently living in Canada and currently studying at Queen's University.
-
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=0366d6)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=0366d6)
-
 <h1 align="center">Hi 👋, I'm Mustafa Tariq</h1>
 <h3 align="center">Computer Science Student at Queen's University</h3>
 
