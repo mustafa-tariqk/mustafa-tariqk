@@ -40,9 +40,7 @@
 - Architected pairs trading algorithm with passenger data, raising trade signal accuracy by 20%
 
 ## EDUCATION
-### Undergrad
-**Queen’s University**  
-- Bachelor of Computing (Honours) | GPA: 3.79
+- **Queen’s University:** Bachelor of Computing (Honours) | GPA: 3.79
 
 ## SKILLS & INTERESTS
 - **Programming Languages:** Python, Java, C/C++, HTML, CSS, Javascript
