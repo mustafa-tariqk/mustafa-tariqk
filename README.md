@@ -1,10 +1,5 @@
 # Mustafa Tariq
 
-- **Email:** mustafa.tariqk@icloud.com
-- **Phone:** +1 (647) 200 - 3148
-- **LinkedIn:** [linkedin.com/in/mustafa-tariqk](linkedin.com/in/mustafa-tariqk)
-- **GitHub:** [github.com/mustafa-tariqk](github.com/mustafa-tariqk)
-
 ## EDUCATION
 **Queen’s University**  
 *Sep 2020 - Apr 2024*  
