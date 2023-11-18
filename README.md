@@ -1,10 +1,3 @@
-# Mustafa Tariq
-
-## EDUCATION
-**Queen’s University**  
-*Sep 2020 - Apr 2024*  
-Bachelor of Computing (Honours) | Specialization in Software Design | GPA: 3.79
-
 ## EMPLOYMENT
 
 ### Software Developer Intern
@@ -45,6 +38,13 @@ Bachelor of Computing (Honours) | Specialization in Software Design | GPA: 3.79
 - Led team to 1st place among 20 competitors, showcasing strong leadership and technical skills
 - Oversaw 10 developers in creating a Python stock trading algorithm with a 50% win rate
 - Architected pairs trading algorithm with passenger data, raising trade signal accuracy by 20%
+
+## EDUCATION
+**Queen’s University**  
+*Sep 2020 - Apr 2024*  
+- Bachelor of Computing (Honours)
+- Specialization in Software Design
+- GPA: 3.79
 
 ## SKILLS & INTERESTS
 - **Programming Languages:** Python, Java, C/C++, HTML, CSS, Javascript
