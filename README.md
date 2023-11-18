@@ -18,7 +18,7 @@
 ## EXTRACURRICULARS
 
 ### Software Developer
-**buildspace**  
+**buildspace - nights&weekends s3**  
 *Apr 2023 - Aug 2023*
 - Built Python toolkit for fun NPC interactions via LangChain and ChromaDB, enhancing gameplay
 - Accelerated tool adoption by creating concise documentation, achieving 30% faster onboarding
