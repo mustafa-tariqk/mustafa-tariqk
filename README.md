@@ -42,8 +42,7 @@
 ## EDUCATION
 ### Undergrad
 **Queen’s University**  
-- Bachelor of Computing (Honours)
-- GPA: 3.79
+- Bachelor of Computing (Honours) | GPA: 3.79
 
 ## SKILLS & INTERESTS
 - **Programming Languages:** Python, Java, C/C++, HTML, CSS, Javascript
