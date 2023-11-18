@@ -41,9 +41,7 @@
 
 ## EDUCATION
 **Queen’s University**  
-*Sep 2020 - Apr 2024*  
 - Bachelor of Computing (Honours)
-- Specialization in Software Design
 - GPA: 3.79
 
 ## SKILLS & INTERESTS
