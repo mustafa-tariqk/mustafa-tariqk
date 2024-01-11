@@ -32,7 +32,7 @@
 - Provided guidance to over 250 students through email inquiries, resolving complex Python and discrete math problems and contributing to their academic success
 
 ## EDUCATION
-- **Queen’s University | Bachelor of Computing (Honours) | GPA: 3.79**
+- **Queen’s University | Bachelor of Computing (Honours) | GPA: 3.82**
 
 ## SKILLS & INTERESTS
 - **Programming Languages:** Python, Java, C/C++, HTML, CSS, Javascript
