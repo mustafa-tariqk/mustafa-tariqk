@@ -1,0 +1,35 @@
+name: Copy README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  copy-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v2
+
+      - name: Copy README.md
+        run: cp README.md ../
+
+      - name: Checkout destination repo
+        uses: actions/checkout@v2
+        with:
+          repository: mustafa-tariqk/mustafa-tariqk.github.io
+          path: ./mustafa-tariqk.github.io
+
+      - name: Move README.md
+        run: mv ../README.md ./mustafa-tariqk.github.io/
+
+      - name: Push changes
+        run: |
+          cd ./mustafa-tariqk.github.io
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update README.md from source repo"
+          git push
