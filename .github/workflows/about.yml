@@ -17,6 +17,7 @@ jobs:
         run: |
           echo '---
           layout: page
+          title: About
           permalink: /about/
           ---' > about.md
           cat README.md >> about.md
