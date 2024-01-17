@@ -1,0 +1,42 @@
+name: Create and update about.md
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update_about:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source repo
+        uses: actions/checkout@v2
+
+      - name: Create and update about.md
+        run: |
+          echo '---
+          layout: page
+          title: About
+          permalink: /about/
+          ---' > about.md
+          cat README.md >> about.md
+
+      - name: Checkout target repo
+        uses: actions/checkout@v2
+        with:
+          repository: mustafa-tariqk/mustafa-tariqk.github.io
+          token: ${{ secrets.GH_PAT }}
+          path: target_repo
+
+      - name: Copy about.md to target repo
+        run: cp about.md target_repo/
+
+      - name: Commit and push to target repo
+        run: |
+          cd target_repo
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update about.md from action"
+          git push
